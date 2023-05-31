@@ -1,0 +1,7 @@
+https://mvnrepository.com/search에서
+
+Selenium Java 4.9.0버전
+JUnit 4.13.1버전
+Webdrivermanager 5.3.3버전
+
+그리고 버전이 겹쳐서 충돌이 일어날수도 있으니 버전을 어떤걸 사용할지 정확하게 설정하면 오류가 없음
